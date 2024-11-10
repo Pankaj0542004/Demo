@@ -111,12 +111,12 @@ choco -v
    Anaconda can help manage your Python environment and dependencies.
 * Download Anaconda from the [official website](https://www.anaconda.com/download).
 
-7. Install CUDA (Optional)
+7. **Install CUDA (Optional)**
 
    CUDA is optional but can accelerate processing if you have a compatible NVIDIA GPU.
 * Download CUDA from [NVIDIA CUDA Downloads](https://developer.nvidia.com/cuda-downloads).
 
-8. Installation of Whisper
+8. **Installation of Whisper**
    
    latest release of Whisper with the following command:
    ```bash
